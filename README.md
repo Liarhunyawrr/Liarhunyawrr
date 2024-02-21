@@ -1,4 +1,16 @@
-### Hi there 👋
+# 💫 About Me:
+
+👋 **Greetings!** </br>
+I'm Muhammad Kamran, a MERN Stack developer with expertise in front-end technologies. 
+#
+- 🌱 **I’m currently learning:**  
+  NextJs MongoDB
+
+- 💬 **Ask me about:**  
+  JavaScript, React, Node.js, and any general coding questions.
+
+- ⚡ **Fun fact:**  
+   Book lover with Eclectic tastes📚!
 
 <!--
 **Liarhunyawrr/Liarhunyawrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
