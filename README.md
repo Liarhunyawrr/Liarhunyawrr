@@ -12,6 +12,12 @@ I'm Muhammad Kamran, a MERN Stack developer with expertise in front-end technolo
 - ⚡ **Fun fact:**  
    Book lover with Eclectic tastes📚!
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kamran-a09b90219)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/https.liar_)
+
+
 <!--
 **Liarhunyawrr/Liarhunyawrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
