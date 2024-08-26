@@ -6,5 +6,5 @@ Hey! My name is Muhammad Kamran, a Full Stack Developer.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/https.liar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kamran-a09b90219/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://liar-lio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/https.liar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kamran-a09b90219/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://liar-lio.vercel.app/) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:muhammadkamrannan@gmail.com)
 
